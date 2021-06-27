@@ -32,4 +32,4 @@
 <br>
 <p align="center">
 <img width="60%" src="https://github.com/IncredibleHacker/Fl00d-Attacker/blob/main/IMG_20210627_203246.jpg"/>
-<img width="70%" src="https://github.com/IncredibleHacker/Fl00d-Attacker/blob/main/IMG_20210627_202415.jpg"/>
+<img width="50%" src="https://github.com/IncredibleHacker/Fl00d-Attacker/blob/main/IMG_20210627_202415.jpg"/>
