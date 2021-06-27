@@ -24,9 +24,8 @@
 * `pkg install python`
 * `pkg install python2`
 * `pkg install git`
-* `git clone https://github.com/IncredibleHacker/TBomb2.0`
+* `git clone https://github.com/IncredibleHacker/Fl00d-Attacker`
 * `ls`
-* `cd TBomb2.0`
-* `pip2 install requirements.txt`
-* `chmod +x TBomb2.0.sh`
-* `./TBomb.sh Or bash TBomb2.0.sh`
+* `cd Fl00d-Attacker`
+* `chmod +x floodattack.sh`
+* `bash floodattack.sh`
