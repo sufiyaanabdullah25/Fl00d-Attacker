@@ -71,9 +71,9 @@ echo " "
         echo -e "\e[1;34m Downloading Latest Files..."
         cd $HOME
         rm -rf Fl00d-Attacker
-        https://github.com/IncredibleHacker/TBomb-2.0
+        https://github.com/IncredibleHacker/Fl00d-Attacker
         cd Fl00d-Attacker
-        bash TBomb2.0.sh
+        bash floodattack.sh
 
     elif [ $ch -eq 5 ];then
         echo -e 
